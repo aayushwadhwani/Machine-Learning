@@ -1,0 +1,4 @@
+y = b0 + b1*x
+
+b1 = sumation((xi - x_bar)*(yi-ybar))/sumation((xi-xbar)**2)
+ybar - b1*xbar = b0
